@@ -10,5 +10,5 @@ A curated list of AI-powered tools for ai roleplay chat. Contribute to this list
 | DreamPal AI | Free Roleplay with Anime & Movie Stars | [https://dreampal.ai/](https://dreampal.ai/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

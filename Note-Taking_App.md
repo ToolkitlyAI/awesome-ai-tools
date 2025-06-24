@@ -9,5 +9,5 @@ A curated list of AI-powered tools for note-taking app. Contribute to this list 
 | Voicenotes | The AI Note Taking App for Busy People | [https://www.voicenotes.com/](https://www.voicenotes.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

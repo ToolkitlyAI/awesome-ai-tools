@@ -17,5 +17,5 @@ A curated list of AI-powered tools for ai assistant. Contribute to this list via
 | Ask AI Questions Online | Ask AI Questions for Free: Your Instant, Smart AI Assistant | [https://askaiquestions.net/](https://askaiquestions.net/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

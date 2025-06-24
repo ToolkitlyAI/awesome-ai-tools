@@ -7,5 +7,5 @@ A curated list of AI-powered tools for ai graphic design. Contribute to this lis
 | Canva | Design Like a Pro with Canva – Free Graphic Design Tool for Social Media & More | [https://www.canva.com](https://www.canva.com) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

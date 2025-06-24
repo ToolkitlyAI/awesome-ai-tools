@@ -7,5 +7,5 @@ A curated list of AI-powered tools for artificial intelligence and machine learn
 | TensorFlow | An End-to-End Machine Learning Platform | [https://www.tensorflow.org/](https://www.tensorflow.org/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

@@ -11,5 +11,5 @@ A curated list of AI-powered tools for ai note maker. Contribute to this list vi
 | Spellar AI | Bot-Free Meeting Notes | [https://spellar.ai/](https://spellar.ai/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

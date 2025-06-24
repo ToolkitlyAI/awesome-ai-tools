@@ -11,5 +11,5 @@ A curated list of AI-powered tools for ai-powered video editing tool. Contribute
 | Klap AI | Create TikToks, Reels, Shorts From Long Videos | [https://klap.app/](https://klap.app/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

@@ -7,5 +7,5 @@ A curated list of AI-powered tools for cloud ai. Contribute to this list via our
 | JioAICloud | AI-Powered Storage with Easy Sharing | [https://www.jiocloud.com/](https://www.jiocloud.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

@@ -7,5 +7,5 @@ A curated list of AI-powered tools for development tool. Contribute to this list
 | ServBay | The All-in-One Local Web Development Environment for Mac | [https://www.servbay.com/](https://www.servbay.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

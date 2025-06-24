@@ -7,5 +7,5 @@ A curated list of AI-powered tools for ios and ipados app. Contribute to this li
 | Easily | iOS Control Widgets | [https://apps.apple.com/us/app/easily-quick-utility-controls/id6742785456](https://apps.apple.com/us/app/easily-quick-utility-controls/id6742785456) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

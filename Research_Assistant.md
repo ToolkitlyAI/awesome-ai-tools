@@ -10,5 +10,5 @@ A curated list of AI-powered tools for research assistant. Contribute to this li
 | NoodleTools | NoodleTools - Research Management & Citation Platform for Students and Educators | [https://www.noodletools.com/](https://www.noodletools.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

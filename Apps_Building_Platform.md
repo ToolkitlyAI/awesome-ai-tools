@@ -7,5 +7,5 @@ A curated list of AI-powered tools for apps building platform. Contribute to thi
 | Secton Platform | AI App Creation | [https://platform.secton.org/](https://platform.secton.org/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

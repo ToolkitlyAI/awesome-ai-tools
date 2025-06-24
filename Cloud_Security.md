@@ -9,5 +9,5 @@ A curated list of AI-powered tools for cloud security. Contribute to this list v
 | Cisco Security Cloud | Cisco Security Cloud Protection Analyzer | [https://www.cisco.com/site/us/en/solutions/secure-the-enterprise/index.html](https://www.cisco.com/site/us/en/solutions/secure-the-enterprise/index.html) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

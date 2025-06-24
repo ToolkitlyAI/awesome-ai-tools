@@ -7,5 +7,5 @@ A curated list of AI-powered tools for ai-powered photo enhancement. Contribute 
 | ImgUpscaler | Upscale Images Online with AI | [https://imgupscaler.com/](https://imgupscaler.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

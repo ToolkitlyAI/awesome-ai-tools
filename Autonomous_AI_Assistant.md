@@ -7,5 +7,5 @@ A curated list of AI-powered tools for autonomous ai assistant. Contribute to th
 | Devin AI | AI Software Developer for Code Generation, Debugging, and Refactoring | [https://preview.devin.ai/](https://preview.devin.ai/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

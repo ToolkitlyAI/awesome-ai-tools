@@ -10,5 +10,5 @@ A curated list of AI-powered tools for architecture & interior design. Contribut
 | Maket AI | Fast Floor Plans & 3D Renders | [https://www.maket.ai/](https://www.maket.ai/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

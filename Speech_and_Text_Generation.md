@@ -7,5 +7,5 @@ A curated list of AI-powered tools for speech and text generation. Contribute to
 | HyperWrite | AI Writing Assistant to Overcome Writer's Block | [https://www.hyperwriteai.com](https://www.hyperwriteai.com) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

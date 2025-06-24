@@ -7,5 +7,5 @@ A curated list of AI-powered tools for entertainment. Contribute to this list vi
 | Chai AI | The AI Chatbot Development Platform | [https://www.chai-research.com/](https://www.chai-research.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

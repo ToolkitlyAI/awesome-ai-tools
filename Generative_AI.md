@@ -12,5 +12,5 @@ A curated list of AI-powered tools for generative ai. Contribute to this list vi
 | OpenAI ChatGPT | GPT-4o - Your Gateway to Advanced AI Interaction | [https://openai.com/index/gpt-4/](https://openai.com/index/gpt-4/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

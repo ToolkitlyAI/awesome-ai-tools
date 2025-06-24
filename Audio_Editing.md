@@ -7,5 +7,5 @@ A curated list of AI-powered tools for audio editing. Contribute to this list vi
 | Audacity | Free, Open-Source Audio Editing Tool | [https://www.audacityteam.org/](https://www.audacityteam.org/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

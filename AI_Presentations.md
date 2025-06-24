@@ -9,5 +9,5 @@ A curated list of AI-powered tools for ai presentations. Contribute to this list
 | Gamma AI | Effortless Presentations & Websites with Gamma AI | [https://gamma.app/](https://gamma.app/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

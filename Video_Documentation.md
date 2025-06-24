@@ -7,5 +7,5 @@ A curated list of AI-powered tools for video documentation. Contribute to this l
 | Guidde | Create Stunning How-To Videos with AI 11x Faster | [https://www.guidde.com/](https://www.guidde.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

@@ -7,5 +7,5 @@ A curated list of AI-powered tools for book. Contribute to this list via our [Co
 | BookBaker | Write a Book in Minutes with Powerful AI Technology | [https://www.bookbaker.com/](https://www.bookbaker.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

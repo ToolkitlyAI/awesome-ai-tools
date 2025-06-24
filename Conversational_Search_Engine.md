@@ -8,5 +8,5 @@ A curated list of AI-powered tools for conversational search engine. Contribute 
 | iAsk Ai | Revolutionize Your Search with Free AI Answers | [https://iask.ai/](https://iask.ai/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

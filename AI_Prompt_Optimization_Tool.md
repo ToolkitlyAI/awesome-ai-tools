@@ -8,5 +8,5 @@ A curated list of AI-powered tools for ai prompt optimization tool. Contribute t
 | ChatGPT Prompt Generator | Generate Optimized Prompts for Better ChatGPT Interactions | [https://promptadvance.club/tools/chatgpt-prompt-generator](https://promptadvance.club/tools/chatgpt-prompt-generator) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

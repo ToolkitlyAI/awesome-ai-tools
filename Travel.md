@@ -8,5 +8,5 @@ A curated list of AI-powered tools for travel. Contribute to this list via our [
 | Mindtrip | Personalized AI Travel Planning: Craft Your Dream Trip with Mindtrip | [https://mindtrip.ai/](https://mindtrip.ai/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

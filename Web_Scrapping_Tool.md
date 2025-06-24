@@ -8,5 +8,5 @@ A curated list of AI-powered tools for web scrapping tool. Contribute to this li
 | Chat4Data | AI Web Scraping Extension | [https://chat4data.ai/](https://chat4data.ai/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

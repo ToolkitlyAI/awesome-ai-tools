@@ -7,5 +7,5 @@ A curated list of AI-powered tools for text to prompt. Contribute to this list v
 | Pretty Prompt | Your Best Prompt, One Click Away | [https://www.pretty-prompt.com/](https://www.pretty-prompt.com/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

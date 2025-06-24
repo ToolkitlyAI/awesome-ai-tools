@@ -8,5 +8,5 @@ A curated list of AI-powered tools for developer tools. Contribute to this list 
 | Pullpo | Pullpo: Improve Code Reviews with Developer Feedback & Metrics | [https://pullpo.io/](https://pullpo.io/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

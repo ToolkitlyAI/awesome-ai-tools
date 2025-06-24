@@ -7,5 +7,5 @@ A curated list of AI-powered tools for translation and dubbing. Contribute to th
 | Verbalate | AI Video Translation & Dubbing for a Global Audience | [https://verbalate.ai](https://verbalate.ai) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
