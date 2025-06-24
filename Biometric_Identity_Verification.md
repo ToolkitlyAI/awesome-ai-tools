@@ -1,0 +1,11 @@
+# Biometric Identity Verification Tools
+
+A curated list of AI-powered tools for biometric identity verification. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Dotta AI | Real-Time Biometric Identity Verification for Developers | [https://withdotta.com/](https://withdotta.com/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

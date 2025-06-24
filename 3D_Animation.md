@@ -1,0 +1,11 @@
+# 3D Animation Tools
+
+A curated list of AI-powered tools for 3d animation. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Plask Motion | Easy AI Motion Capture Animation | [https://plask.ai/](https://plask.ai/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

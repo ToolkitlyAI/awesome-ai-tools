@@ -1,0 +1,11 @@
+# Time-Blocking Apps Tools
+
+A curated list of AI-powered tools for time-blocking apps. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Chunk | Boost Focus with macOS Time-Blocking | [https://www.chunkapp.net/](https://www.chunkapp.net/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

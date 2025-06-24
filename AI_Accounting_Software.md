@@ -1,0 +1,11 @@
+# AI Accounting Software Tools
+
+A curated list of AI-powered tools for ai accounting software. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| FISKL | Advanced AI Accounting for Fast Financial Management | [https://fiskl.com/](https://fiskl.com/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

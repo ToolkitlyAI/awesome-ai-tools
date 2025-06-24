@@ -1,0 +1,11 @@
+# AI Rewording Tool Tools
+
+A curated list of AI-powered tools for ai rewording tool. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Rewording.io | AI Content Writing & Paraphrasing Tool for SEO and Bloggers | [https://rewording.io/](https://rewording.io/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

@@ -1,0 +1,11 @@
+# iOS and iPadOS App Tools
+
+A curated list of AI-powered tools for ios and ipados app. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Easily | iOS Control Widgets | [https://apps.apple.com/us/app/easily-quick-utility-controls/id6742785456](https://apps.apple.com/us/app/easily-quick-utility-controls/id6742785456) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

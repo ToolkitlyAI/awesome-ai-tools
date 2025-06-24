@@ -1,0 +1,11 @@
+# Payroll Solution Tools
+
+A curated list of AI-powered tools for payroll solution. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Borderless AI | Your All-in-One Platform for Global HR | [https://www.hireborderless.com/](https://www.hireborderless.com/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

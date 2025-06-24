@@ -1,0 +1,11 @@
+# Artificial Intelligence and Machine Learning Tools
+
+A curated list of AI-powered tools for artificial intelligence and machine learning. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| TensorFlow | An End-to-End Machine Learning Platform | [https://www.tensorflow.org/](https://www.tensorflow.org/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

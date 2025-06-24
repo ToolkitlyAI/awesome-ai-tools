@@ -1,0 +1,11 @@
+# Vendor Management Tools
+
+A curated list of AI-powered tools for vendor management. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Omi AI | The Smart Solution for Vendor and Document Management | [https://www.tryomi.com/](https://www.tryomi.com/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

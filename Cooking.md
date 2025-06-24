@@ -1,0 +1,11 @@
+# Cooking Tools
+
+A curated list of AI-powered tools for cooking. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Dinnerfy | Get Dinner on Autopilot with Meal Plans & Groceries | [https://www.dinnerfy.com/](https://www.dinnerfy.com/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

@@ -1,0 +1,11 @@
+# Analytics Tools
+
+A curated list of AI-powered tools for analytics. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| Hurree | Effortless Data Analysis & Insights for Everyone | [https://www.hurree.co/](https://www.hurree.co/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!

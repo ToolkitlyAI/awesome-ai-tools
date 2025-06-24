@@ -1,0 +1,11 @@
+# AI Jingle Maker Tools
+
+A curated list of AI-powered tools for ai jingle maker. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+
+| Tool Name | Description (max 50 chars) | Website |
+|-----------|----------------------------|---------|
+| AI Jingle Maker | Fast Jingles for Podcasts & More | [https://www.aijinglemaker.com/](https://www.aijinglemaker.com/) |
+
+## More Resources
+- [Back to Categories](../README.md)
+- Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
