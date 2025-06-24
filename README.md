@@ -218,7 +218,6 @@ Explore our tool categories below:
 - [Mental Wellness](Mental_Wellness.md)
 - [Mockups](Mockups.md)
 - [Multicloud Management](Multicloud_Management.md)
-- [NFSW chatbot](NFSW_chatbot.md)
 - [No-Code](No-Code.md)
 - [No-Code Game Creator](No-Code_Game_Creator.md)
 - [No-Code Web App Builder](No-Code_Web_App_Builder.md)
