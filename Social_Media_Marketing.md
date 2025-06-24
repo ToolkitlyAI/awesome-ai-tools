@@ -1,6 +1,6 @@
 # Social Media Marketing Tools
 
-A curated list of AI-powered tools for social media marketing. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+A curated list of AI-powered tools for social media marketing. Contribute to this list via our [Contributing Guidelines](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/CONTRIBUTING.md).
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|

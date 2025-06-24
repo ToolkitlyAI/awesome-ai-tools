@@ -1,6 +1,6 @@
 # Cloud Orchestration Solution Tools
 
-A curated list of AI-powered tools for cloud orchestration solution. Contribute to this list via our [Contributing Guidelines](../CONTRIBUTING.md).
+A curated list of AI-powered tools for cloud orchestration solution. Contribute to this list via our [Contributing Guidelines](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/CONTRIBUTING.md).
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
