@@ -1,6 +1,6 @@
 # Contributing to Awesome AI Tools by Toolkitly
 
-Thank you for helping grow our curated list of 600+ AI-powered tools for 3D modeling, video, icons, academic research, and more! This repository, brought to you by [Toolkitly.com](https://toolkitly.com), is a community-driven resource for the AI community. We welcome contributions to keep it up-to-date and comprehensive.
+Thank you for helping grow our curated list of 650+ AI-powered tools for 3D modeling, video, icons, academic research, and more! This repository, brought to you by [Toolkitly.com](https://toolkitly.com), is a community-driven resource for the AI community. We welcome contributions to keep it up-to-date and comprehensive.
 
 ## How to Contribute
 
