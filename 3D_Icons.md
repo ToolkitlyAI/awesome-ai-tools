@@ -7,5 +7,5 @@ A curated list of AI-powered tools for 3d icons. Contribute to this list via our
 | Thiings | Best Free 3D Icon Libraries | [https://www.thiings.co/](https://www.thiings.co/) |
 
 ## More Resources
-- [Back to Categories](../README.md)
+- [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
