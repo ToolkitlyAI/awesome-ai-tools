@@ -202,7 +202,7 @@ Explore our tool categories below:
 - [ITSM SaaS](ITSM_SaaS.md)
 - [InsurTech Solutions](InsurTech_Solutions.md)
 - [Integration Platform as a Service (iPaaS)](Integration_Platform_as_a_Service_(iPaaS).md)
-- [Interior Design](Interior_Design.md)
+- [Interior Design](category/Interior_Design.md)
 - [Investment AI](Investment_AI.md)
 - [IoT & Device Search Engine](IoT_&_Device_Search_Engine.md)
 - [Kali Linux Tools](Kali_Linux_Tools.md)
