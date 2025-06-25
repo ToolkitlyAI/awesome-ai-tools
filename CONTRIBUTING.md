@@ -5,7 +5,7 @@ Thank you for helping grow our curated list of 650+ AI-powered tools for 3D mode
 ## How to Contribute
 
 1. Fork the repository.
-2. Add your AI tool to the appropriate category Markdown file in `github/`.
+2. Add your AI tool to the appropriate category Markdown file in `Category/`.
 3. Ensure the tool entry includes: Name, Description, Link, and Category.
 4. Submit a pull request for review.
    
