@@ -240,6 +240,7 @@ Explore our tool categories below:
 - [Plagiarism Checker](Category/Plagiarism_Checker.md)
 - [Product Experience Management](Category/Product_Experience_Management.md)
 - [Productivity](Category/Productivity.md)
+- [ToolArks](https://toolarks.com) - Smart, Secure & Private Online Tools. All processing happens 100% locally in your browser.
 - [Project Management](Category/Project_Management.md)
 - [Psychology](Category/Psychology.md)
 - [Public Relations](Category/Public_Relations.md)
