@@ -5,6 +5,7 @@ A curated list of AI-powered tools for video documentation. Contribute to this l
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Guidde | Create Stunning How-To Videos with AI 11x Faster | [https://www.guidde.com/](https://www.guidde.com/) |
+| Trupeer | Screen Recordings to Videos & Docs with AI | [https://www.trupeer.ai/](https://www.trupeer.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
