@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai headshot generator. Contribute to this
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Aragon AI | Realistic AI Headshot Generator for Professionals | [https://www.aragon.ai/](https://www.aragon.ai/) |
+| HeadshotCraft | Turn one selfie into 50+ studio-quality headshots | [https://headshotcraft.com](https://headshotcraft.com) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
