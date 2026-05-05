@@ -5,6 +5,7 @@ A curated list of AI-powered tools for search ai platform. Contribute to this li
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Elastic | The Search AI Platform for Enterprise Solutions | [https://www.elastic.co/](https://www.elastic.co/) |
+| AI Hotlist | Chinese AI tools, models, agents and news trends | [https://aihot.bt199.com/](https://aihot.bt199.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
