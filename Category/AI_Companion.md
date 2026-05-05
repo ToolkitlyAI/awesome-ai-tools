@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai companion. Contribute to this list via
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Replika | Your AI Friend & Chatbot Companion - Always There to Listen | [https://replika.com/](https://replika.com/) |
+| Kissable | AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages | [https://kissable.app](https://kissable.app) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
