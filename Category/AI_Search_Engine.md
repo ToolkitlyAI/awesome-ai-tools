@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai search engine. Contribute to this list
 |-----------|----------------------------|---------|
 | Algolia | The Leading AI Search Platform for Developers | [https://www.algolia.com/](https://www.algolia.com/) |
 | Hix AI | Boost Writing & Productivity | [https://hix.ai/](https://hix.ai/) |
+| AI Hotlist | Chinese AI tools and model news hotlist | [https://aihot.bt199.com/](https://aihot.bt199.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
