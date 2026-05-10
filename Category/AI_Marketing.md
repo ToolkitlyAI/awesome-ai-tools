@@ -10,6 +10,7 @@ A curated list of AI-powered tools for ai marketing. Contribute to this list via
 | Simplified | AI Design, Video, Writing & Social Media Tool | [https://simplified.com](https://simplified.com) |
 | Chromatic AI | Chromatic Labs AI Ad Platform | [https://www.chromaticlabs.co/](https://www.chromaticlabs.co/) |
 | VibeNecto | AI Marketing Visuals | [https://vibenecto.com/](https://vibenecto.com/) |
+| NotFair | Google Ads MCP for Claude & AI agents | [https://notfair.co/](https://notfair.co/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
