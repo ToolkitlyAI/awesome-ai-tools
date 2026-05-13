@@ -9,6 +9,7 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | Manus AI | Manus AI  General AI Agent for Task Automation | [https://www.manus.im](https://www.manus.im) |
 | Duelin' Agents | Real-Time AI Conversations and Debates | [https://duelinagent.com/](https://duelinagent.com/) |
 | Knowly AI | AI Agent Automation | [https://goknowly.ai/](https://goknowly.ai/) |
+| AI Hotlist | Chinese AI tools and agent trend tracker | [https://aihot.bt199.com/](https://aihot.bt199.com/) |
 | Quell | UAT AI Agents | [https://www.quellit.ai/](https://www.quellit.ai/) |
 
 ## More Resources
