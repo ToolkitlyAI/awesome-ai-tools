@@ -8,6 +8,7 @@ A curated list of AI-powered tools for architecture & interior design. Contribut
 | GetFloorPlan | AI Floor Plans & Virtual Tours | [https://getfloorplan.com/](https://getfloorplan.com/) |
 | RoomAI | AI Home Design & Visualization | [https://roomai.com/](https://roomai.com/) |
 | Maket AI | Fast Floor Plans & 3D Renders | [https://www.maket.ai/](https://www.maket.ai/) |
+| LandscapioAI | AI Landscape Design Generator | [https://www.landscapioai.com/](https://www.landscapioai.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
