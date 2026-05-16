@@ -8,6 +8,7 @@ A curated list of AI-powered tools for ai image editor. Contribute to this list 
 | Clipdrop.co | Enhance & Swap Images with AI Tools | [https://clipdrop.co/](https://clipdrop.co/) |
 | Profile Pic Maker | PFP Maker : Free AI Profile Picture Generator for Professional & Creative Use | [https://pfpmaker.com/](https://pfpmaker.com/) |
 | Remaker AI | Ultimate Face Swap, Video Editing, & AI Image Enhancement | [https://remaker.ai/](https://remaker.ai/) |
+| ClipBG | Pro batch background remover & editor | [https://clipbg.net](https://clipbg.net) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
