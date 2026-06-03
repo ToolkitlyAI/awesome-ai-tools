@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai programming. Contribute to this list v
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | AI Programmers | AI ML Programming Services: Empower Your Business with AI | [https://aimlprogramming.com/](https://aimlprogramming.com/) |
+| CoderPlan | CoderPlan: Unified LLM API Gateway for Claude, OpenAI, Gemini & Codex | [https://coderplan.ai/](https://coderplan.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
