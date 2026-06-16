@@ -6,6 +6,7 @@ A curated list of AI-powered tools for developer tools. Contribute to this list 
 |-----------|----------------------------|---------|
 | Supabase | Supabase: The Open-Source Firebase Alternative with Scalable Pricing | [https://supabase.com/](https://supabase.com/) |
 | Pullpo | Pullpo: Improve Code Reviews with Developer Feedback & Metrics | [https://pullpo.io/](https://pullpo.io/) |
+| CoderPlan | CoderPlan: Unified LLM API Gateway for Claude, OpenAI, Gemini & Codex | [https://coderplan.ai/](https://coderplan.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
