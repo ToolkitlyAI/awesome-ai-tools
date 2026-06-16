@@ -18,6 +18,7 @@ A curated list of AI-powered tools for business. Contribute to this list via our
 | VentureMind AI | The All-in-One AI Platform for Effortless Business Growth | [https://www.venturemind.ai/](https://www.venturemind.ai/) |
 | Syncly | AI-Powered Customer Feedback Analysis & Prioritization | [https://syncly.app/](https://syncly.app/) |
 | Deploy AI | The Custom AI Tool to Supercharge Your Business | [https://www.deploy.ai/](https://www.deploy.ai/) |
+| FiveCoins | Validate AI micro-offers with live metrics | [https://fivecoins.app.tipdata.es/en/?src=toolkitly-github-pr](https://fivecoins.app.tipdata.es/en/?src=toolkitly-github-pr) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
