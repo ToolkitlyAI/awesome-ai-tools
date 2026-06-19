@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai phone assistant. Contribute to this li
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Emily AI | AI-Powered Call Management | [https://dialemily.com/](https://dialemily.com/) |
+| CallURL | Shareable AI call apps | [https://callurl.com](https://callurl.com) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
