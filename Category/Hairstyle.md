@@ -5,6 +5,7 @@ A curated list of AI-powered tools for hairstyle. Contribute to this list via ou
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Change Hairstyle AI | Instantly Try New Hairstyles with AI | [https://changehairstyleai.com/](https://changehairstyleai.com/) |
+| HairWow | Preview haircuts, colors, and beard styles | [https://www.gohairwow.com/](https://www.gohairwow.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
