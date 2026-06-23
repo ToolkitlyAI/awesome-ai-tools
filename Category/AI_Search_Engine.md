@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai search engine. Contribute to this list
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Algolia | The Leading AI Search Platform for Developers | [https://www.algolia.com/](https://www.algolia.com/) |
+| AIPower.spot | This is an online catalog and platform for searching and selecting tools based on artificial intelligence (AI). | [https://aipower.spot/](https://aipower.spot/) |
 | Hix AI | Boost Writing & Productivity | [https://hix.ai/](https://hix.ai/) |
 
 ## More Resources
