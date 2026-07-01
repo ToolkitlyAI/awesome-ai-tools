@@ -7,6 +7,7 @@ A curated list of AI-powered tools for productivity. Contribute to this list via
 | Pop AI | The AI Tool to Chat with Your Documents & Images | [https://popai.saaslink.net/9qUEYP](https://popai.saaslink.net/9qUEYP) |
 | WorkToDo | WorkToDo: Personal CRM & Task Management for Business Productivity | [https://www.worktodo.today](https://www.worktodo.today) |
 | Second Brain | Productivity AI | [https://www.thesecondbrain.io/](https://www.thesecondbrain.io/) |
+| Tudo | AI task capture and personal planning | [https://blynkai.app/tudo/](https://blynkai.app/tudo/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
