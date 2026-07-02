@@ -1,4 +1,5 @@
 # Developer Tools Tools
+- [ARC-Neuron LLMBuilder](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) - Local-first AI model lifecycle framework for benchmark receipts, candidate/incumbent model promotion, archive-ready lineage, and governed small-model improvement.
 
 A curated list of AI-powered tools for developer tools. Contribute to this list via our [Contributing Guidelines](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/CONTRIBUTING.md).
 
