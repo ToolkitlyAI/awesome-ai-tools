@@ -4,6 +4,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| ImagineClip | AI video generator for social clips | [https://imagineclip.com](https://imagineclip.com) |
 | Hailuo AI | AI Video Creation | [https://hailuoai.video/](https://hailuoai.video/) |
 | PVID | Free AI video generator | [https://pvid.app/](https://pvid.app/) |
 | Rask AI | Translate & Dub Videos in 130+ Languages | [https://www.rask.ai/](https://www.rask.ai/) |
