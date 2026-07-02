@@ -4,6 +4,7 @@ A curated list of AI-powered tools for hairstyle. Contribute to this list via ou
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| Aurcue | Photo-based style and hairstyle guidance | [https://www.aurcue.com](https://www.aurcue.com) |
 | Change Hairstyle AI | Instantly Try New Hairstyles with AI | [https://changehairstyleai.com/](https://changehairstyleai.com/) |
 
 ## More Resources
