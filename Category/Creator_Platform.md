@@ -5,6 +5,7 @@ A curated list of AI-powered tools for creator platform. Contribute to this list
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Beacons AI | AI-Powered Creator Platform | [https://beacons.ai/](https://beacons.ai/) |
+| CreatorSkills | AI skills marketplace for creators | [https://creatorskills.co](https://creatorskills.co) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
