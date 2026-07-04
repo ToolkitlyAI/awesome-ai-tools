@@ -9,6 +9,7 @@ Welcome to a curated collection of 650+ AI-powered tools for  productivity, crea
 Explore our tool categories below:
 
 - [3D Animation](Category/3D_Animation.md)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [3D Generative AI](Category/3D_Generative_AI.md)
 - [3D Icons](Category/3D_Icons.md)
 - [3D Video](Category/3D_Video.md)
