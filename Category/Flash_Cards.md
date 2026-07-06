@@ -6,6 +6,7 @@ A curated list of AI-powered tools for flash cards. Contribute to this list via 
 |-----------|----------------------------|---------|
 | AIFlash.Cards | Effortless Flashcard Creation for Better Learning | [https://aiflash.cards/](https://aiflash.cards/) |
 | Assistena | The Free AI Study Tool for Better Grades | [https://assistena.com/](https://assistena.com/) |
+| Cardify | AI mistake-question flashcards for K12 review | [https://blynkai.app/cardify/](https://blynkai.app/cardify/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
