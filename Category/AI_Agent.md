@@ -9,6 +9,7 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | Manus AI | Manus AI  General AI Agent for Task Automation | [https://www.manus.im](https://www.manus.im) |
 | Duelin' Agents | Real-Time AI Conversations and Debates | [https://duelinagent.com/](https://duelinagent.com/) |
 | Knowly AI | AI Agent Automation | [https://goknowly.ai/](https://goknowly.ai/) |
+| Tree Ring Memory | Local-first memory lifecycle for AI agents | [https://terminallylazy.github.io/Tree-Ring-Memory/](https://terminallylazy.github.io/Tree-Ring-Memory/) |
 | Quell | UAT AI Agents | [https://www.quellit.ai/](https://www.quellit.ai/) |
 | XMACNA Funcionarios Digitais com IA | AI digital workers for business automation | [https://xmacna.ai/funcionarios-digitais](https://xmacna.ai/funcionarios-digitais) |
 
