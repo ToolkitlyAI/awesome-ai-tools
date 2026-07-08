@@ -9,6 +9,7 @@ A curated list of AI-powered tools for seo. Contribute to this list via our [Con
 | LinkActions | AI-Powered Marketing for Law Firms | [https://www.linkactions.com/](https://www.linkactions.com/) |
 | Seomaker.ai | AI Content Generator for Faster SEO & Marketing | [https://seomaker.ai/](https://seomaker.ai/) |
 | Stevie AI | The Easy & Affordable SEO Tool for Startups | [https://aicenter.ai/stevie](https://aicenter.ai/stevie) |
+| AnswerLens | AI audits for B2B SaaS page evidence | [https://app.sfdj.net/](https://app.sfdj.net/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
