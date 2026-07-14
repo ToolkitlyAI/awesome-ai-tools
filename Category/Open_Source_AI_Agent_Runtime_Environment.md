@@ -5,6 +5,7 @@ A curated list of AI-powered tools for open source ai agent runtime environment.
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Kodosumi | Scale AI Agents with Ray | [https://www.kodosumi.io/](https://www.kodosumi.io/) |
+| Open Agent Relay | Share local agents over trusted LANs | [GitHub](https://github.com/ShakespeareLabs/open-agent-relay) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
