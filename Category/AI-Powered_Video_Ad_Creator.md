@@ -1,4 +1,5 @@
-# AI-Powered Video Ad Creator Tools
+Glato AI# AI-Powered Video Ad Creator Tools
+| Marketing Studio | Open-source AI video ad studio | [GitHub](https://github.com/AtlasCloudAI/atlas-marketing-studio) |
 
 A curated list of AI-powered tools for ai-powered video ad creator. Contribute to this list via our [Contributing Guidelines](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/CONTRIBUTING.md).
 
