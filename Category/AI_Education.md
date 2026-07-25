@@ -25,6 +25,7 @@ A curated list of AI-powered tools for ai education. Contribute to this list via
 | IsotopeAI | IsotopeAI PCM Study Companion | [https://isotopeai.netlify.app](https://isotopeai.netlify.app) |
 | WeVideo | Transform Your Content with Interactive Videos | [https://www.wevideo.com/](https://www.wevideo.com/) |
 
+| AIHumanLove | Free AI tools directory, courses, experiments & prompt library | [https://aihumanlove.com/](https://aihumanlove.com/) |
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
