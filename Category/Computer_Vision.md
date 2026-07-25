@@ -5,6 +5,7 @@ A curated list of AI-powered tools for computer vision. Contribute to this list 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Robovision | AI Vision Made Easy for Dynamic Environments | [https://robovision.ai/](https://robovision.ai/) |
+| Image Describer | Describe images, extract text, and create alt text | [https://imagedescriber.dev](https://imagedescriber.dev) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
