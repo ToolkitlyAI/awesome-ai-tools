@@ -7,6 +7,7 @@ A curated list of AI-powered tools for meeting assistant. Contribute to this lis
 | RequirementsAI | AI-Powered Requirements Generator | [https://requirementsai.com/Home](https://requirementsai.com/Home) |
 | Otter.AI | The Ultimate AI Meeting Assistant for Businesses | [https://www.otter.ai/](https://www.otter.ai/) |
 | Meeting.ai | Transcribe, Summarize, Analyze Meetings | [https://meeting.ai/](https://meeting.ai/) |
+| Echo99 | Private Mac recorder with local transcription | [https://www.echo99.app/](https://www.echo99.app/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
