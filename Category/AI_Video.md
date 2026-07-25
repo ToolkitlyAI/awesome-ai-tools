@@ -9,6 +9,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | PVID | Free AI video generator | [https://pvid.app/](https://pvid.app/) |
 | Rask AI | Translate & Dub Videos in 130+ Languages | [https://www.rask.ai/](https://www.rask.ai/) |
 | Cloud Clipboard Video | Queue-free Seedance 2.0 video, real-face | [https://cv.cm/v](https://cv.cm/v) |
+| Video Upscaler | AI video upscaler for sharper HD video | [https://videoupscaler.video](https://videoupscaler.video) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
