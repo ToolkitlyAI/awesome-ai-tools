@@ -4,6 +4,7 @@ A curated list of AI-powered tools for ai image editor. Contribute to this list 
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| Blur Background | Blur photo backgrounds with adjustable controls | [https://blurbackground.vip](https://blurbackground.vip) |
 | Cutout Pro | Cutout Pro AI: Your All-in-One Visual Editing Solution | [https://www.cutout.pro](https://www.cutout.pro) |
 | Clipdrop.co | Enhance & Swap Images with AI Tools | [https://clipdrop.co/](https://clipdrop.co/) |
 | Profile Pic Maker | PFP Maker : Free AI Profile Picture Generator for Professional & Creative Use | [https://pfpmaker.com/](https://pfpmaker.com/) |
