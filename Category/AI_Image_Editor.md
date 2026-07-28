@@ -10,6 +10,7 @@ A curated list of AI-powered tools for ai image editor. Contribute to this list 
 | Profile Pic Maker | PFP Maker : Free AI Profile Picture Generator for Professional & Creative Use | [https://pfpmaker.com/](https://pfpmaker.com/) |
 | Remaker AI | Ultimate Face Swap, Video Editing, & AI Image Enhancement | [https://remaker.ai/](https://remaker.ai/) |
 | ClearCrowds | AI cleanup for crowds, objects, glare | [https://www.clearcrowds.com](https://www.clearcrowds.com) |
+| ImageChanger | AI photo editing with 38 focused workflows | [https://aiimagechanger.app/](https://aiimagechanger.app/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
