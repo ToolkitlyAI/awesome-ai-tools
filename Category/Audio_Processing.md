@@ -6,6 +6,7 @@ A curated list of AI-powered tools for audio processing. Contribute to this list
 |-----------|----------------------------|---------|
 | LALAL.AI | The Powerful AI Tool for Separating Vocals, Instruments & More | [https://www.lalal.ai/](https://www.lalal.ai/) |
 | Toggle Studio | AI mixing and mastering for vocals and beats | [https://toggle.town/studio](https://toggle.town/studio) |
+| Transcreve BR | PT-BR transcription with speaker diarization | [https://www.brainiall.com/transcreve/transcricao](https://www.brainiall.com/transcreve/transcricao) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
