@@ -10,6 +10,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | Rask AI | Translate & Dub Videos in 130+ Languages | [https://www.rask.ai/](https://www.rask.ai/) |
 | Cloud Clipboard Video | Queue-free Seedance 2.0 video, real-face | [https://cv.cm/v](https://cv.cm/v) |
 | Video Upscaler | AI video upscaler for sharper HD video | [https://videoupscaler.video](https://videoupscaler.video) |
+| Zexi Seedance API | Seedance 2.0 REST API for developers | [https://quanzedong-cell.github.io/seedance-2-api/en/](https://quanzedong-cell.github.io/seedance-2-api/en/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
