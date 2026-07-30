@@ -6,6 +6,7 @@ A curated list of AI-powered tools for document ai. Contribute to this list via 
 |-----------|----------------------------|---------|
 | PDF.ai | PDF.ai: Your Free AI-Powered PDF Assistant for Chat, Summaries & Data Extraction | [https://pdf.ai/](https://pdf.ai/) |
 | HiPDF | Edit & Chat with PDFs using AI (Free Online Tools) | [https://www.hipdf.com/](https://www.hipdf.com/) |
+| Reducto | Document parsing and extraction API | [https://reducto.ai/](https://reducto.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
