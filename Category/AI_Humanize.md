@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai humanize. Contribute to this list via 
 |-----------|----------------------------|---------|
 | Humbot | The AI Text Humanizer to Bypass Detectors & Write Naturally | [https://humbot.ai/](https://humbot.ai/) |
 | AI Humanizer | Humanize AI-Generated Text Instantly – Free & Undetectable Tool | [https://ai-humanizer.com/](https://ai-humanizer.com/) |
+| Humanize-Text | Open-source multi-stage rewriting toolkit | [GitHub](https://github.com/lynote-ai/humanize-text) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
