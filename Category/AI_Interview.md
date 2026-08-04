@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai interview. Contribute to this list via
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Opground | Land Your Dream Tech Job Faster with AI-Powered Matching | [https://opground.com/](https://opground.com/) |
+| ExtraBrain | AI copilot for technical and behavioral interviews | [https://extrabrain.app](https://extrabrain.app) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
