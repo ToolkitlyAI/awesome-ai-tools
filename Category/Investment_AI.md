@@ -5,6 +5,7 @@ A curated list of AI-powered tools for investment ai. Contribute to this list vi
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | RAFA | The All-in-One AI Assistant - Invest in Your Productivity & Streamline Workflows | [https://www.rafa.ai](https://www.rafa.ai) |
+| SwiftAlerts | AI market alerts and trade intelligence | [https://swiftalerts.trade](https://swiftalerts.trade) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
