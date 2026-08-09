@@ -314,6 +314,10 @@ Want to add a tool or fix a link? Check out our [Contributing Guidelines](CONTRI
 
 ## Learn More
 For more AI tools, detailed reviews, and insights, visit [Toolkitly.com](https://toolkitly.com)!
+## Related Directories
+
+- [aitoolfinder.ai](https://aitoolfinder.ai) - Curated AI tools directory across 80+ use-case categories with regular updates.
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
