@@ -8,6 +8,7 @@ A curated list of AI-powered tools for developer tools. Contribute to this list 
 | Supabase | Supabase: The Open-Source Firebase Alternative with Scalable Pricing | [https://supabase.com/](https://supabase.com/) |
 | Pullpo | Pullpo: Improve Code Reviews with Developer Feedback & Metrics | [https://pullpo.io/](https://pullpo.io/) |
 | AI Developer Toolkit | 32+ AI prompts for code review, debugging & testing | [https://money-monkey-26.github.io/ai-dev-toolkit/](https://money-monkey-26.github.io/ai-dev-toolkit/) |
+| Better Agent | Orchestrate Claude, Codex, and Gemini sessions | [https://github.com/ofekron/better-agent](https://github.com/ofekron/better-agent) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
