@@ -18,6 +18,7 @@ A curated list of AI-powered tools for ai-powered video creation. Contribute to 
 | Vidnoz AI | Your Free, Fast AI Video Maker | [https://www.vidnoz.com](https://www.vidnoz.com) |
 | Meta AI | Meta AI Toolkit: Innovate with Open-Source AI Models | [https://ai.meta.com/](https://ai.meta.com/) |
 | SkyReels | AI Video Creation Platform | [https://www.skyreels.ai/](https://www.skyreels.ai/) |
+| TalkPix.ai | Pay-as-you-go AI talking photo & video ad studio | [https://www.talkpix.ai](https://www.talkpix.ai) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
