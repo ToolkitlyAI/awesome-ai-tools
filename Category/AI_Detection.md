@@ -10,6 +10,7 @@ A curated list of AI-powered tools for ai detection. Contribute to this list via
 | Stealthwriter | Free AI Content Rewriter for Undetectable Human-Quality Text | [https://stealthwriter.ai/](https://stealthwriter.ai/) |
 | AI Humanize | Best AI Text Rewriter for SEO | Detect AI Instantly | [https://aihumanize.com/](https://aihumanize.com/) |
 | AI Essay Checker | Improve Grammar, Detect Plagiarism & AI Content | [https://essaycheck.ai/](https://essaycheck.ai/) |
+| Mydentify AI Watermark Detector | Check text for hidden AI watermark signals | [https://mydentify.com/tools/ai-watermark-detector](https://mydentify.com/tools/ai-watermark-detector) |
 | BypassGPT | BypassGPT AI Text Humanizer | [https://bypassgpt.ai/](https://bypassgpt.ai/) |
 | Undetectable AI | Generate High-Quality Content | [https://undetectable.ai/](https://undetectable.ai/) |
 
