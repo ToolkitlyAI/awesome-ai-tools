@@ -7,6 +7,7 @@ A curated list of AI-powered tools for research assistant. Contribute to this li
 | AnswerThis | Your AI-Powered Research Assistant & Summarizer | [https://answerthis.io/](https://answerthis.io/) |
 | Elicit | The AI Research Assistant That Summarizes Papers & Extracts Data in Seconds | [https://elicit.com/](https://elicit.com/) |
 | NotebookLM | AI Research Assistant by Google | [https://notebooklm.google/](https://notebooklm.google/) |
+| IdeaHunter | Startup idea research from demand signals | [https://ideahunter.today](https://ideahunter.today) |
 | NoodleTools | NoodleTools - Research Management & Citation Platform for Students and Educators | [https://www.noodletools.com/](https://www.noodletools.com/) |
 
 ## More Resources
