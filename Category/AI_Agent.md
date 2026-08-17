@@ -11,6 +11,7 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | Knowly AI | AI Agent Automation | [https://goknowly.ai/](https://goknowly.ai/) |
 | Quell | UAT AI Agents | [https://www.quellit.ai/](https://www.quellit.ai/) |
 | XMACNA Funcionarios Digitais com IA | AI digital workers for business automation | [https://xmacna.ai/funcionarios-digitais](https://xmacna.ai/funcionarios-digitais) |
+| BotDirectory | Ready-to-use prompts for AI agent workflows | [https://botdirectory.ai/](https://botdirectory.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
