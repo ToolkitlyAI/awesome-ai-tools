@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai image generation. Contribute to this l
 |-----------|----------------------------|---------|
 | AI2Image | Fun AI Image Generator | [https://www.ai2image.com/](https://www.ai2image.com/) |
 | Avyn AI | AI image generation and editing platform | [https://www.avynai.com/](https://www.avynai.com/) |
+| Eimu | GPT Image 2 & Nano Banana Pro image generator | [https://eimu.art](https://eimu.art) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
