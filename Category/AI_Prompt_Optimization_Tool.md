@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai prompt optimization tool. Contribute t
 |-----------|----------------------------|---------|
 | PromptPort | Write Better with AI Prompts: Discover PromptPort | [https://promptport.ai/](https://promptport.ai/) |
 | ChatGPT Prompt Generator | Generate Optimized Prompts for Better ChatGPT Interactions | [https://promptadvance.club/tools/chatgpt-prompt-generator](https://promptadvance.club/tools/chatgpt-prompt-generator) |
+| Find Image Prompt | Discover prompts behind AI-generated images | [https://findimageprompt.com/](https://findimageprompt.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
