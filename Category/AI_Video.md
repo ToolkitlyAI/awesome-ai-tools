@@ -11,6 +11,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | SEELE TV | Cinematic video with camera control | [https://seele.tv/](https://seele.tv/) |
 | Cloud Clipboard Video | Queue-free Seedance 2.0 video, real-face | [https://cv.cm/v](https://cv.cm/v) |
 | Video Upscaler | AI video upscaler for sharper HD video | [https://videoupscaler.video](https://videoupscaler.video) |
+| VideoGen | AI video generator: script to video | [https://videogen.io/ai-video-generator](https://videogen.io/ai-video-generator) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
