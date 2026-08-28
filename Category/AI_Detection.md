@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai detection. Contribute to this list via
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Illuminarty AI | Detect Deepfakes and AI-Generated Content Easily | [https://illuminarty.ai/](https://illuminarty.ai/) |
+| isthisaigenerated.app | Warning-only AI checks for image, text, and audio | [https://isthisaigenerated.app/](https://isthisaigenerated.app/) |
 | Copyleaks | Instantly Detect AI & Plagiarism in Your Content | [https://copyleaks.com/](https://copyleaks.com/) |
 | Originality AI | The #1 AI Content & Plagiarism Checker | [https://originality.ai/ai-checker](https://originality.ai/ai-checker) |
 | Stealthwriter | Free AI Content Rewriter for Undetectable Human-Quality Text | [https://stealthwriter.ai/](https://stealthwriter.ai/) |
