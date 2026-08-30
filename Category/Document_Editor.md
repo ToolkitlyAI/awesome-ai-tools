@@ -5,6 +5,7 @@ A curated list of AI-powered tools for document editor. Contribute to this list 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Type AI | Write Smarter, Faster | [https://type.ai/](https://type.ai/) |
+| BrandQuill | Turn AI drafts into branded Word documents | [https://brandquill.app](https://brandquill.app) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
