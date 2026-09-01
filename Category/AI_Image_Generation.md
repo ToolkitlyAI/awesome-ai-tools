@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai image generation. Contribute to this l
 |-----------|----------------------------|---------|
 | AI2Image | Fun AI Image Generator | [https://www.ai2image.com/](https://www.ai2image.com/) |
 | Avyn AI | AI image generation and editing platform | [https://www.avynai.com/](https://www.avynai.com/) |
+| Remix Camera | AI portraits from reusable characters | [https://remix.camera](https://remix.camera) |
 | YingTu | AI image and video API route playground | [https://yingtu.ai/en](https://yingtu.ai/en) |
 
 ## More Resources
