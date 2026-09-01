@@ -6,6 +6,7 @@ A curated list of AI-powered tools for text to image. Contribute to this list vi
 |-----------|----------------------------|---------|
 | BeSYNC | AI Content Creation Platform for Text & Visuals | [https://besync.ai/](https://besync.ai/) |
 | Frosting AI | Master Artistic Image Generation with AI | [https://frosting.ai/](https://frosting.ai/) |
+| Lunalisa | AI workspace for images and short videos | [https://luna-lisa.art/](https://luna-lisa.art/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
