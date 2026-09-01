@@ -5,6 +5,7 @@ A curated list of AI-powered tools for e-commerce. Contribute to this list via o
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Wondr AI | Wondr AI: AI Print-on-Demand & E-commerce Automation | [https://www.wondrai.com/](https://www.wondrai.com/) |
+| PixGT | AI product imagery: try-on, model swap, poses | [https://www.pixgt.cn](https://www.pixgt.cn) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
