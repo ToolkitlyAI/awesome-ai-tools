@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai-powered photo enhancement. Contribute 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | ImgUpscaler | Upscale Images Online with AI | [https://imgupscaler.com/](https://imgupscaler.com/) |
+| voxelyo | AI photo enhancer for Airbnb & real estate | [https://voxelyo.com/](https://voxelyo.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
