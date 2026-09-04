@@ -10,6 +10,7 @@ A curated list of AI-powered tools for seo. Contribute to this list via our [Con
 | Seomaker.ai | AI Content Generator for Faster SEO & Marketing | [https://seomaker.ai/](https://seomaker.ai/) |
 | Stevie AI | The Easy & Affordable SEO Tool for Startups | [https://aicenter.ai/stevie](https://aicenter.ai/stevie) |
 | AnswerLens | AI audits for B2B SaaS page evidence | [https://app.sfdj.net/](https://app.sfdj.net/) |
+| LLM Pulse | AI search visibility and brand analytics | [https://llmpulse.ai/](https://llmpulse.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
