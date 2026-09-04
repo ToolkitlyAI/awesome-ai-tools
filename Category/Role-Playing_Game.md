@@ -5,6 +5,7 @@ A curated list of AI-powered tools for role-playing game. Contribute to this lis
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | AI Dungeon | Create Your Epic AI Tale | [https://play.aidungeon.com/](https://play.aidungeon.com/) |
+| Loreify | AI campaign memory and recaps for tabletop RPGs | [https://loreify.ai/](https://loreify.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
