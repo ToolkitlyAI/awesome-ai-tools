@@ -4,6 +4,7 @@ A curated list of AI-powered tools for social media manager. Contribute to this 
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| BulkPublish | API + MCP social publishing for AI agents | [https://www.bulkpublish.com/](https://www.bulkpublish.com/) |
 | Pygma AI | Your Personal AI Social Media Manager free | [https://www.pygma.me/](https://www.pygma.me/) |
 
 ## More Resources
