@@ -8,6 +8,9 @@ A curated list of AI-powered tools for developer tools. Contribute to this list 
 | Supabase | Supabase: The Open-Source Firebase Alternative with Scalable Pricing | [https://supabase.com/](https://supabase.com/) |
 | Pullpo | Pullpo: Improve Code Reviews with Developer Feedback & Metrics | [https://pullpo.io/](https://pullpo.io/) |
 | AI Developer Toolkit | 32+ AI prompts for code review, debugging & testing | [https://money-monkey-26.github.io/ai-dev-toolkit/](https://money-monkey-26.github.io/ai-dev-toolkit/) |
+| DeployReview | Code reviews with actual opinions | [https://poe.com/DeployReview](https://poe.com/DeployReview) |
+| DiffExplainerHQ | Explains diffs, writes commit messages | [https://poe.com/DiffExplainerHQ](https://poe.com/DiffExplainerHQ) |
+| LLMAuditor | Audits your llms.txt like a contract | [https://poe.com/LLMAuditor](https://poe.com/LLMAuditor) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
