@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | MultiOn | Build AI Assistants that Complete Tasks | [https://www.multion.ai/](https://www.multion.ai/) |
+| Solgrok | Autonomous Solana creator-ops agent | [https://lmajster.github.io/sgrok/](https://lmajster.github.io/sgrok/) |
 | Truva AI | AI User Onboarding Tool for Higher Retention | [https://truva.ai/](https://truva.ai/) |
 | Manus AI | Manus AI  General AI Agent for Task Automation | [https://www.manus.im](https://www.manus.im) |
 | Duelin' Agents | Real-Time AI Conversations and Debates | [https://duelinagent.com/](https://duelinagent.com/) |
