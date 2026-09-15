@@ -241,6 +241,7 @@ Explore our tool categories below:
 - [Product Experience Management](Category/Product_Experience_Management.md)
 - [Productivity](Category/Productivity.md)
 - [ToolArks](https://toolarks.com) - Smart, Secure & Private Online Tools. All processing happens 100% locally in your browser.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 - [Project Management](Category/Project_Management.md)
 - [Psychology](Category/Psychology.md)
 - [Public Relations](Category/Public_Relations.md)
