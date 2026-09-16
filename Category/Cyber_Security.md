@@ -12,6 +12,8 @@ A curated list of AI-powered tools for cyber security. Contribute to this list v
 | Bitdefender | Bitdefender Security Suite | [https://www.bitdefender.com/](https://www.bitdefender.com/) |
 | Nessus | Top Cybersecurity Tool | [https://www.tenable.com/products/nessus](https://www.tenable.com/products/nessus) |
 
+| Skill Safe | Security checker for agent skills and MCP servers | [https://skillsafe.online/](https://skillsafe.online/) |
+
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
