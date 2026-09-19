@@ -21,6 +21,7 @@ A curated list of AI-powered tools for ai education. Contribute to this list via
 | ProfessorAI | Ace AP Exams with ProfessorAI: Your AI-Powered Study Partner | [https://www.professorai.co/](https://www.professorai.co/) |
 | StudyArena | Free blind AI answer comparisons for students. | [https://studyarena.com](https://studyarena.com) |
 | StudyFetch | AI Study Tools & Personalized Tutor | [https://www.studyfetch.com/](https://www.studyfetch.com/) |
+| SummarizAI | YouTube AI summary, chapters, chat, flashcards | [https://summarizai.ink](https://summarizai.ink) |
 | Brainly AI | Your AI Learning Companion for Homework, Test Prep, and More | [https://brainly.com/](https://brainly.com/) |
 | Porosheets | Revolutionize Education with AI-Powered Learning | [https://www.porosheets.com/](https://www.porosheets.com/) |
 | IsotopeAI | IsotopeAI PCM Study Companion | [https://isotopeai.netlify.app](https://isotopeai.netlify.app) |
