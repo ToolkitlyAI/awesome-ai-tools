@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai tattoo maker. Contribute to this list 
 |-----------|----------------------------|---------|
 | TattoosAI | Generate the Perfect Tattoo Design Instantly | [https://www.tattoosai.com/](https://www.tattoosai.com/) |
 | BlackInk AI | Design Your Next Tattoo with Powerful AI | [https://blackink.ai/](https://blackink.ai/) |
+| Tinta Piel | Tattoo design and try-on on your own photo | [https://tintapiel.com/](https://tintapiel.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
