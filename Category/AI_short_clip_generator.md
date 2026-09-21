@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai short clip generator. Contribute to th
 |-----------|----------------------------|---------|
 | Vidyo AI | Create Viral TikTok & Instagram Reels | [https://vidyo.ai](https://vidyo.ai) |
 | 2short AI | Create AI-Powered Short Videos Instantly | 2short.ai | [https://2short.ai/](https://2short.ai/) |
+| shortshort | Long videos into vertical 9:16 shorts | [https://www.shortshort.io/](https://www.shortshort.io/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
