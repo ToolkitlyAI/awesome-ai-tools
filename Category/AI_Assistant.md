@@ -16,6 +16,7 @@ A curated list of AI-powered tools for ai assistant. Contribute to this list via
 | Merlio | Unified Platform for AI Productivity | [https://merlio.app/](https://merlio.app/) |
 | Ask AI Questions Online | Ask AI Questions for Free: Your Instant, Smart AI Assistant | [https://askaiquestions.net/](https://askaiquestions.net/) |
 | Remio | Local-first AI memory and knowledge base | [https://remio.ai/](https://remio.ai/) |
+| Screenpipe | Screen and audio history for AI context | [https://screenpipe.com/](https://screenpipe.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
