@@ -5,6 +5,7 @@ A curated list of AI-powered tools for blog. Contribute to this list via our [Co
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | BlogBuster | AI SEO Blog Writer | [https://www.blogbuster.so/](https://www.blogbuster.so/) |
+| AI Nexus | AI tool reviews & India pricing guides | [https://ainexustools.online](https://ainexustools.online) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
