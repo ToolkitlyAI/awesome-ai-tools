@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai-powered recruitment tools. Contribute 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Perfect | AI-Powered Recruitment Solution for Faster, Smarter Hiring | [https://www.goperfect.com/](https://www.goperfect.com/) |
+| Clera | Hire from AI chat: search vetted startup talent | [https://www.getclera.com/mcp](https://www.getclera.com/mcp) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
