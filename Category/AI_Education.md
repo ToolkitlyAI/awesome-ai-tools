@@ -26,6 +26,7 @@ A curated list of AI-powered tools for ai education. Contribute to this list via
 | Porosheets | Revolutionize Education with AI-Powered Learning | [https://www.porosheets.com/](https://www.porosheets.com/) |
 | IsotopeAI | IsotopeAI PCM Study Companion | [https://isotopeai.netlify.app](https://isotopeai.netlify.app) |
 | WeVideo | Transform Your Content with Interactive Videos | [https://www.wevideo.com/](https://www.wevideo.com/) |
+| iBacalao | Diploma Programme coursework feedback | [https://www.ibacalao.com](https://www.ibacalao.com) |
 
 | AIHumanLove | Free AI tools directory, courses, experiments & prompt library | [https://aihumanlove.com/](https://aihumanlove.com/) |
 ## More Resources
