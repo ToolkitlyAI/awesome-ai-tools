@@ -6,6 +6,7 @@ Welcome to a curated collection of 650+ AI-powered tools for  productivity, crea
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## Categories
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 Explore our tool categories below:
 
 - [3D Animation](Category/3D_Animation.md)
