@@ -13,6 +13,7 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | Quell | UAT AI Agents | [https://www.quellit.ai/](https://www.quellit.ai/) |
 | Clarity | Base x402 research API + paid USDC chat | [https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) |
 | XMACNA Funcionarios Digitais com IA | AI digital workers for business automation | [https://xmacna.ai/funcionarios-digitais](https://xmacna.ai/funcionarios-digitais) |
+| aiFetchly | Open-source AI agent for business automation | [https://www.aifetchly.com](https://www.aifetchly.com) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
