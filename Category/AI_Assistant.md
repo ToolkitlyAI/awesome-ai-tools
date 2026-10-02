@@ -17,6 +17,7 @@ A curated list of AI-powered tools for ai assistant. Contribute to this list via
 | Ask AI Questions Online | Ask AI Questions for Free: Your Instant, Smart AI Assistant | [https://askaiquestions.net/](https://askaiquestions.net/) |
 | Remio | Local-first AI memory and knowledge base | [https://remio.ai/](https://remio.ai/) |
 | Screenpipe | Screen and audio history for AI context | [https://screenpipe.com/](https://screenpipe.com/) |
+| Honer AI | Android AI chat with web search and voice input | [https://honer-ai.itch.io/honer-ai-android](https://honer-ai.itch.io/honer-ai-android) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
