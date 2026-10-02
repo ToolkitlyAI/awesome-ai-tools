@@ -8,6 +8,7 @@ Welcome to a curated collection of 650+ AI-powered tools for  productivity, crea
 ## Categories
 Explore our tool categories below:
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [3D Animation](Category/3D_Animation.md)
 - [3D Generative AI](Category/3D_Generative_AI.md)
 - [3D Icons](Category/3D_Icons.md)
