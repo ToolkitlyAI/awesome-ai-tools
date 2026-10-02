@@ -12,6 +12,7 @@ A curated list of AI-powered tools for ai chatbots. Contribute to this list via 
 | Social Intents | Boost Sales & Support with Live Chat & AI Chatbots | [https://www.socialintents.com](https://www.socialintents.com) |
 | Chatbot App | Your All-in-One Platform for Advanced AI Chat & Image Generation | [https://chatbotapp.ai/](https://chatbotapp.ai/) |
 | Dopple AI | Lifelike Chat with AI Characters & Celebrities | [https://beta.dopple.ai/](https://beta.dopple.ai/) |
+| WSUP AI | Free AI character chat, no sign up. SFW only | [https://wsupai.app/](https://wsupai.app/) |
 | Logically.app | Boost Your Research Workflow with Logically.app, the AI Assistant | [https://afforai.com/](https://afforai.com/) |
 | AskEllie | Free 24/7 Chatbot for Small Businesses: Get Started with AskEllie.ai | [https://www.askellie.ai/](https://www.askellie.ai/) |
 | TheB.AI | Your All-in-One Platform for Cutting-Edge AI | [https://theb.ai/](https://theb.ai/) |
