@@ -11,6 +11,7 @@ A curated list of AI-powered tools for developer tools. Contribute to this list 
 | DeployReview | Code reviews with actual opinions | [https://poe.com/DeployReview](https://poe.com/DeployReview) |
 | DiffExplainerHQ | Explains diffs, writes commit messages | [https://poe.com/DiffExplainerHQ](https://poe.com/DiffExplainerHQ) |
 | LLMAuditor | Audits your llms.txt like a contract | [https://poe.com/LLMAuditor](https://poe.com/LLMAuditor) |
+| Hyperconsciousness | Encrypted MCP knowledge store for agents (alpha) | [GitHub](https://github.com/louis030195/hyperconsciousness) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
