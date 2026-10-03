@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai workspace. Contribute to this list via
 |-----------|----------------------------|---------|
 | Den | AI Powered Workspace | [https://getden.io/](https://getden.io/) |
 | Orkas | Open-source multi-agent desktop workspace | [https://orkas.ai/?source=gh_toolkitly](https://orkas.ai/?source=gh_toolkitly) |
+| Tale | Shared project workspace for teams and AI agents | [https://tale.dev/](https://tale.dev/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
