@@ -8,6 +8,7 @@ A curated list of AI-powered tools for ai image generation. Contribute to this l
 | Avyn AI | AI image generation and editing platform | [https://www.avynai.com/](https://www.avynai.com/) |
 | GPT Image 2.5 Generator | Independent AI image generation and editing | [https://gptimage2-5.pics/](https://gptimage2-5.pics/) |
 | YingTu | AI image and video API route playground | [https://yingtu.ai/en](https://yingtu.ai/en) |
+| Tesla Wrap Generator | AI Tesla Paint Shop wraps with 3D preview | [https://teslawrapgenerator.com/](https://teslawrapgenerator.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
