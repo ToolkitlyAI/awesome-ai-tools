@@ -7,6 +7,7 @@ A curated list of AI-powered tools for ai photo editor. Contribute to this list 
 | Photoroom | AI Photo Editing Made Simple | [https://www.photoroom.com/](https://www.photoroom.com/) |
 | Fotor AI | Your All-in-One Photo Editing & Design Solution | [https://www.fotor.com/](https://www.fotor.com/) |
 | RestorePhoto | Restore faces in old and blurry photos | [https://restorephoto.org/](https://restorephoto.org/) |
+| Stunna | AI photo edits; iOS/Android, optional paid Pro | [https://stunna-app.com/](https://stunna-app.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
