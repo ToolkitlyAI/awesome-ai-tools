@@ -5,6 +5,7 @@ A curated list of AI-powered tools for writing assistant. Contribute to this lis
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Heynds | AI Writing and Speech Assistant | [https://www.heynds.com/](https://www.heynds.com/) |
+| WarmQuant | AI English drafts with author and reader personas | [https://warmquant.com/](https://warmquant.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
