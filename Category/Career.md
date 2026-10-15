@@ -5,6 +5,7 @@ A curated list of AI-powered tools for career. Contribute to this list via our [
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Braudit AI | Get Free Career Insights & Guidance with Braudit | [https://braudit.app/](https://braudit.app/) |
+| Jobvetta | Search India jobs from official career pages | [https://www.jobvetta.com/](https://www.jobvetta.com/) |
 | ProfileReadme | Template-driven profile pages and developer bio builder | [https://f726103e.profilereadme.pages.dev](https://f726103e.profilereadme.pages.dev) |
 
 ## More Resources
