@@ -6,6 +6,7 @@ A curated list of AI-powered tools for audio processing. Contribute to this list
 |-----------|----------------------------|---------|
 | LALAL.AI | The Powerful AI Tool for Separating Vocals, Instruments & More | [https://www.lalal.ai/](https://www.lalal.ai/) |
 | QuietTake | Free browser speech cleanup; 50MB/5min; mono WAV | [https://noiseremover.site/](https://noiseremover.site/) |
+| Remove Audio | Removes background music from video, keeps voice | [https://remove-audio.com/tools/remove-music-from-video](https://remove-audio.com/tools/remove-music-from-video) |
 | Toggle Studio | AI mixing and mastering for vocals and beats | [https://toggle.town/studio](https://toggle.town/studio) |
 | Transcreve BR | PT-BR transcription with speaker diarization | [https://www.brainiall.com/transcreve/transcricao](https://www.brainiall.com/transcreve/transcricao) |
 
