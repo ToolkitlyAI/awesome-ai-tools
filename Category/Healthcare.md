@@ -13,6 +13,7 @@ A curated list of AI-powered tools for healthcare. Contribute to this list via o
 | Futureheal | Revolutionizing Healthcare with AI Diagnostics | [https://futureheal.com/](https://futureheal.com/) |
 | Journable | Journable Free AI Calorie & Fitness Tracker App | [https://www.journable.com/](https://www.journable.com/) |
 | Telo | AI wellness and recovery insights | [https://blynkai.app/telo/](https://blynkai.app/telo/) |
+| Healify | AI health, nutrition and longevity companion | [https://www.healify.ai/](https://www.healify.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
