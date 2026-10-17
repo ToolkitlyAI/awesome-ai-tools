@@ -14,6 +14,7 @@ A curated list of AI-powered tools for seo. Contribute to this list via our [Con
 | SearchLink | Search Console drop alerts, free for 3 sites | [https://searchlink.namubase.com](https://searchlink.namubase.com) |
 | LogNorm | SEO and GEO backlog worked by AI agents via MCP | [https://lognorm.com](https://lognorm.com) |
 | AltoRank | Open-source SEO content software that drafts sourced articles | [https://altorank.co](https://altorank.co) |
+| BacklinkGenie | AI outreach agent that earns editorial backlinks | [https://backlinkgenie.com](https://backlinkgenie.com) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
