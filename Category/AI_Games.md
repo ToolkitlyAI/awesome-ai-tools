@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai games. Contribute to this list via our
 |-----------|----------------------------|---------|
 | Ludo AI | AI Game Design Tools | [https://ludo.ai/](https://ludo.ai/) |
 | Roblox GUI Maker | Roblox GUI and Lua code generator | [https://robloxguimaker.dev/](https://robloxguimaker.dev/) |
+| Game in Browser | Browser game guides with dated launch checks | [https://gameinbrowser.com/](https://gameinbrowser.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
