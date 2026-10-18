@@ -14,6 +14,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | VideoGen | AI video generator: script to video | [https://videogen.io/ai-video-generator](https://videogen.io/ai-video-generator) |
 | Magic Hour | AI video creation and editing platform | [https://magichour.ai](https://magichour.ai) |
 | Sora2 Hub | AI image and video generator, many models | [https://sora2hub.org](https://sora2hub.org) |
+| ShortSmash | Open-source prompt-to-viral-short pipeline | [https://github.com/hydope/shortsmash](https://github.com/hydope/shortsmash) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
