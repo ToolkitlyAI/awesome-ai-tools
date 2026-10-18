@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai companion. Contribute to this list via
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Replika | Your AI Friend & Chatbot Companion - Always There to Listen | [https://replika.com/](https://replika.com/) |
+| T-Social | 18+ Telegram app: short clips, AI characters | [https://t-social.me/creators/](https://t-social.me/creators/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
