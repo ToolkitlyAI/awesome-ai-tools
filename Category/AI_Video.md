@@ -15,6 +15,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | Magic Hour | AI video creation and editing platform | [https://magichour.ai](https://magichour.ai) |
 | Sora2 Hub | AI image and video generator, many models | [https://sora2hub.org](https://sora2hub.org) |
 | Zombie Couple Video | 2 photos to a 15s zombie couple video | [https://zombiehugvideo.com](https://zombiehugvideo.com) |
+| ShortSmash | Open-source prompt-to-viral-short pipeline | [https://github.com/hydope/shortsmash](https://github.com/hydope/shortsmash) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
