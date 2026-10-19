@@ -5,6 +5,7 @@ A curated list of AI-powered tools for data intelligence. Contribute to this lis
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Collibra | Collibra Data Intelligence Platform: Empower Data-Driven Decisions | [https://www.collibra.com/](https://www.collibra.com/) |
+| DC Hub | Data-center site selection data for AI agents | [https://dchub.cloud/](https://dchub.cloud/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
