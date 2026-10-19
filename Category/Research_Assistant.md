@@ -9,6 +9,7 @@ A curated list of AI-powered tools for research assistant. Contribute to this li
 | NotebookLM | AI Research Assistant by Google | [https://notebooklm.google/](https://notebooklm.google/) |
 | IdeaHunter | Startup idea research from demand signals | [https://ideahunter.today](https://ideahunter.today) |
 | NoodleTools | NoodleTools - Research Management & Citation Platform for Students and Educators | [https://www.noodletools.com/](https://www.noodletools.com/) |
+| Pulse | AI-moderated market research interviews at scale | [https://pulsecorp.co](https://pulsecorp.co) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
