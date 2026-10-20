@@ -9,6 +9,7 @@ A curated list of AI-powered tools for ai image generation. Contribute to this l
 | GPT Image 2.5 Generator | Independent AI image generation and editing | [https://gptimage2-5.pics/](https://gptimage2-5.pics/) |
 | YingTu | AI image and video API route playground | [https://yingtu.ai/en](https://yingtu.ai/en) |
 | Clout | AI characters, images and faceless videos | [https://tryclout.ai/](https://tryclout.ai/) |
+| BananaImg | Nano Banana AI image creation and editing | [https://bananaimg.net/](https://bananaimg.net/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
