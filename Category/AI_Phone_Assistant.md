@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai phone assistant. Contribute to this li
 |-----------|----------------------------|---------|
 | Emily AI | AI-Powered Call Management | [https://dialemily.com/](https://dialemily.com/) |
 | CallURL | Shareable AI call apps | [https://callurl.com](https://callurl.com) |
+| PlaceCall | AI agent that calls US businesses for you | [https://voygr.tech/placecall/](https://voygr.tech/placecall/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
