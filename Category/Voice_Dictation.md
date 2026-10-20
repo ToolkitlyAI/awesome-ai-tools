@@ -5,6 +5,7 @@ A curated list of AI-powered tools for voice dictation. Contribute to this list 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Wispr Flow | Voice Dictation Tool | [https://wisprflow.ai/](https://wisprflow.ai/) |
+| Yap | Private on-device dictation for Mac and Windows | [https://yapapp.cc](https://yapapp.cc) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
