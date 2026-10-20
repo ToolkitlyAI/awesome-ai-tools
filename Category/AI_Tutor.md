@@ -11,6 +11,7 @@ A curated list of AI-powered tools for ai tutor. Contribute to this list via our
 | TutorOcean AI | AI & Human Tutoring | [https://www.tutorocean.com/](https://www.tutorocean.com/) |
 | Syntea | AI Tutor for IU Students | [https://www.iu.org/digital-tools/syntea/](https://www.iu.org/digital-tools/syntea/) |
 | Mathly | AI Math Problem Solver | [https://mathly.webflow.io/](https://mathly.webflow.io/) |
+| Ask Poppy | Voice AI tutor that asks, not tells | [https://askpoppy.ai/](https://askpoppy.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
