@@ -13,6 +13,7 @@ A curated list of AI-powered tools for text to video. Contribute to this list vi
 | PixVerse AI V4.5 | Transform Text, Images, and Characters into High-Quality Videos Effortlessly | [https://www.pixverse.ai/](https://www.pixverse.ai/) |
 | VideoTube | Free AI Video Generator | [https://videotube.ai/](https://videotube.ai/) |
 | Pixwit | Text/image-to-video and AI image generation | [https://pixwit.ai/](https://pixwit.ai/) |
+| Wan 3.0 | Text/image/reference to video with native audio | [https://wan-3.studio/ai-video](https://wan-3.studio/ai-video) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
