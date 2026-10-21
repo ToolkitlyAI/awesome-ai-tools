@@ -12,6 +12,7 @@ A curated list of AI-powered tools for text to video. Contribute to this list vi
 | Kling AI Kuaishou | Revolutionize Text-to-Video Creation | [https://kling.kuaishou.com/en](https://kling.kuaishou.com/en) |
 | PixVerse AI V4.5 | Transform Text, Images, and Characters into High-Quality Videos Effortlessly | [https://www.pixverse.ai/](https://www.pixverse.ai/) |
 | VideoTube | Free AI Video Generator | [https://videotube.ai/](https://videotube.ai/) |
+| Pixwit | Text/image-to-video and AI image generation | [https://pixwit.ai/](https://pixwit.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
