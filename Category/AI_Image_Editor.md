@@ -11,6 +11,7 @@ A curated list of AI-powered tools for ai image editor. Contribute to this list 
 | Remaker AI | Ultimate Face Swap, Video Editing, & AI Image Enhancement | [https://remaker.ai/](https://remaker.ai/) |
 | ClearCrowds | AI cleanup for crowds, objects, glare | [https://www.clearcrowds.com](https://www.clearcrowds.com) |
 | PhoText | Click text in any image to edit it directly, free | [https://photext.ai](https://photext.ai) |
+| Nano Banana 2.1 | AI image generation and editing with readable text | [https://nano-banana21.org/](https://nano-banana21.org/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
