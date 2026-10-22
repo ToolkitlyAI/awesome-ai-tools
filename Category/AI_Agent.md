@@ -15,6 +15,7 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | XMACNA Funcionarios Digitais com IA | AI digital workers for business automation | [https://xmacna.ai/funcionarios-digitais](https://xmacna.ai/funcionarios-digitais) |
 | aiFetchly | Open-source AI agent for business automation | [https://www.aifetchly.com](https://www.aifetchly.com) |
 | Aident Loadout | Remote MCP for agents with 400+ Skills | [https://aident.ai](https://aident.ai) |
+| Orbi | Turns ai-ready GitHub issues into merged PRs | [https://orbi.build/?ref=dir-toolkitly](https://orbi.build/?ref=dir-toolkitly) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
