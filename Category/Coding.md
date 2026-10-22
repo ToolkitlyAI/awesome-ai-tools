@@ -8,6 +8,7 @@ A curated list of AI-powered tools for coding. Contribute to this list via our [
 | Macaly | Vibe Coding Assistant | [https://www.macaly.com/](https://www.macaly.com/) |
 | Blackbox AI | Answer Coding Questions, Explain Code & More | [https://www.blackbox.ai/](https://www.blackbox.ai/) |
 | Windsurf | Your Intelligent Coding Assistant | [https://windsurf.com/](https://windsurf.com/) |
+| Loadout | Version-pinned AI coding rule packs | [https://loadout-blush.vercel.app](https://loadout-blush.vercel.app) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
