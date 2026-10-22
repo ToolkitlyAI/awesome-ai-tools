@@ -5,6 +5,7 @@ A curated list of AI-powered tools for ai fitness assistant. Contribute to this 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Shapemate | AI Fitness Chatbot via WhatsApp | [https://shapemate.eu/](https://shapemate.eu/) |
+| OnlineFitness.app | Client app and AI assistant for fitness coaches | [https://onlinefitness.app](https://onlinefitness.app) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
