@@ -4,6 +4,7 @@ A curated list of AI-powered tools for ai resume generator. Contribute to this l
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| JobEmerge | AI resume, job-fit, and interview copilot | [https://www.jobemerge.work](https://www.jobemerge.work) |
 | ThisResumeDoesNotExist AI | ThisResumeDoesNotExist: Free AI Resume Generator | [https://thisresumedoesnotexist.com/](https://thisresumedoesnotexist.com/) |
 | ResumeAI | Free ATS checker + AI resume builder | [https://withresumeai.com/](https://withresumeai.com/) |
 
