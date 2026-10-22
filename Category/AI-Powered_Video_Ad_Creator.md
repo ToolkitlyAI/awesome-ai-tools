@@ -7,6 +7,7 @@ A curated list of AI-powered tools for ai-powered video ad creator. Contribute t
 | Sparkiz.ai | AI video ads from a product link in 60s | [https://sparkiz.ai](https://sparkiz.ai) |
 | VidAU AI | Create Winning Video Ads with AI | Fast & Easy | [https://www.vidau.ai/](https://www.vidau.ai/) |
 | Glato AI | AI Short Video Ads Generator - Create 100s in Minutes | [https://glato.ai/](https://glato.ai/) |
+| pitchboom.io | Motion-design video ads from a product URL | [https://pitchboom.io](https://pitchboom.io) |
 
 | Ad Multiplier | Visual variations of existing short video ads | [https://admultipliers.com/](https://admultipliers.com/) |
 
