@@ -12,6 +12,7 @@ A curated list of AI-powered tools for developer tools. Contribute to this list 
 | DiffExplainerHQ | Explains diffs, writes commit messages | [https://poe.com/DiffExplainerHQ](https://poe.com/DiffExplainerHQ) |
 | LLMAuditor | Audits your llms.txt like a contract | [https://poe.com/LLMAuditor](https://poe.com/LLMAuditor) |
 | CurlShot | Screenshot API + MCP server for AI agents | [https://curlshot.com/](https://curlshot.com/) |
+| CodeTrendy | Startup directory + free MCP server for AI agents | [https://codetrendy.com/](https://codetrendy.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
