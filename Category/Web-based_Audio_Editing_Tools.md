@@ -5,6 +5,7 @@ A curated list of AI-powered tools for web-based audio editing tools. Contribute
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | Audioalter | Audioalter Audio Enhancer | [https://audioalter.com/](https://audioalter.com/) |
+| Saturalabs | Text-guided sound isolation; paid WAV downloads | [https://www.saturalabs.com/](https://www.saturalabs.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
