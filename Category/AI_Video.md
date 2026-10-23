@@ -16,6 +16,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | Sora2 Hub | AI image and video generator, many models | [https://sora2hub.org](https://sora2hub.org) |
 | Zombie Couple Video | 2 photos to a 15s zombie couple video | [https://zombiehugvideo.com](https://zombiehugvideo.com) |
 | ShortSmash | Open-source prompt-to-viral-short pipeline | [https://github.com/hydope/shortsmash](https://github.com/hydope/shortsmash) |
+| RefVid | Same product or character in every AI video | [https://refvid.com](https://refvid.com) |
 
 | Alors On Danse Video Maker | Two photos to 13s studio dance video | [https://alorsondansevideo.com](https://alorsondansevideo.com) |
 | Bad Times AI | Photos to AI dance effect videos | [https://badtimesai.dev](https://badtimesai.dev) |
