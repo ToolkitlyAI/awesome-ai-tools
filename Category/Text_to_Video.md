@@ -14,6 +14,8 @@ A curated list of AI-powered tools for text to video. Contribute to this list vi
 | VideoTube | Free AI Video Generator | [https://videotube.ai/](https://videotube.ai/) |
 | Pixwit | Text/image-to-video and AI image generation | [https://pixwit.ai/](https://pixwit.ai/) |
 
+| GrokVideo Studio | Independent text/image-to-video generator | [https://grokvideogenerator.dev](https://grokvideogenerator.dev) |
+
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
