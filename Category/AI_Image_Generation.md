@@ -11,6 +11,8 @@ A curated list of AI-powered tools for ai image generation. Contribute to this l
 | Clout | AI characters, images and faceless videos | [https://tryclout.ai/](https://tryclout.ai/) |
 | Seedream 5.5 | AI image generation and editing in plain words | [https://seedream5-5.net/](https://seedream5-5.net/) |
 | BananaImg | Nano Banana AI image creation and editing | [https://bananaimg.net/](https://bananaimg.net/) |
+| PromptImage | Free AI image gallery + multi-model studio | [https://promptimage.cloud](https://promptimage.cloud) |
+
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
