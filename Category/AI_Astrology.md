@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai astrology. Contribute to this list via
 |-----------|----------------------------|---------|
 | Jeffrey Celavie AI | Jeffrey Celavie AI-Powered Astro-Coaching Assistant for Personalized Astrology | [https://www.jeffreycelavie.team](https://www.jeffreycelavie.team) |
 | Vedic Astrology Chart | Generate and interpret Vedic birth charts | [https://vedicastrologychart.net](https://vedicastrologychart.net) |
+| Tarot Astral | AI Tarot & Astrology Readings in Telegram | [https://t.me/Tar0_Astral_bot?start=gh_toolkitly](https://t.me/Tar0_Astral_bot?start=gh_toolkitly) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
