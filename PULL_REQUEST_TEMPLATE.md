@@ -2,7 +2,7 @@
 
 **New tools are no longer accepted by pull request.** This pull request will be closed.
 
-To get your tool listed, please submit it at **https://www.toolkitly.com/submit**. Listed tools are added to this repository automatically.
+To get your tool listed, please submit it at **https://www.toolkitly.com/login**. Listed tools are added to this repository automatically.
 
 ---
 
