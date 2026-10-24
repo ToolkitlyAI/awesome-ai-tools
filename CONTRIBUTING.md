@@ -1,28 +1,39 @@
 # Contributing to Awesome AI Tools by Toolkitly
 
-Thank you for helping grow our curated list of 650+ AI-powered tools for 3D modeling, video, icons, academic research, and more! This repository, brought to you by [Toolkitly.com](https://toolkitly.com), is a community-driven resource for the AI community. We welcome contributions to keep it up-to-date and comprehensive.
+Thanks for your interest in this list! To keep it accurate and high quality, **we no longer accept new tools through pull requests.**
 
-## How to Contribute
+## How to get your tool listed
 
-1. Fork the repository.
-2. Add your AI tool to the appropriate category Markdown file in `Category/`.
-3. Ensure the tool entry includes: Name, Description, Link, and Category.
-4. Submit a pull request for review.
-   
-## Guidelines
-- **Relevance**: Add only AI-powered tools related to 3D modeling, video, icons, academic research, or similar fields.
-- **Accuracy**: Verify tool URLs and descriptions before submitting. Maintainers will validate URLs during PR review.
-- **No Spam**: Avoid promotional content, affiliate links, or low-quality tools.
-- **Compliance**: Respect the terms of service of listed tools.
-- **Brevity**: Keep descriptions concise (max 50 characters) for readability.
+1. **Submit your tool at [toolkitly.com/submit](https://www.toolkitly.com/submit).**
+   Every submission is reviewed by our team for quality, accuracy and working links.
+2. **Choose a listing plan** and complete checkout. See the plans on the submission page.
+3. **Your tool is added to this repository automatically** shortly after your listing goes live. You do not need to open a pull request.
 
-## Reporting Issues
-Found a broken link, outdated description, or missing tool? Open an [Issue](https://github.com/ToolkitlyAI/awesome-ai-tools/issues) with details. 
+## What we still accept
 
-## Why Contribute?
-Your contributions help build a valuable resource for the AI community and gain exposure on [Toolkitly.com](https://toolkitly.com), where we feature top tools, reviews, and insights. Visit our site for more AI resources!
+Pull requests are welcome for these only:
 
-## Questions?
-Open an issue or contact us via [Toolkitly.com](https://toolkitly.com) for support.
+- Fixing a broken or outdated link for a tool that is already listed
+- Fixing a typo or formatting problem
+- Reporting that a tool has shut down or changed its name (please open an issue)
 
-Thank you for making this list awesome! 🚀
+Pull requests that add a new tool will be closed with a link to the submission page. This is not a judgement on your tool, it is just how we manage the list.
+
+## Reporting problems
+
+- Open an [issue](../../issues) for broken links, closed tools, or wrong categories.
+- For listing, billing or partnership questions, contact us through [toolkitly.com](https://www.toolkitly.com).
+
+## Listing guidelines
+
+To be listed, a tool must:
+
+- Be a real, publicly accessible AI product (not a placeholder or waitlist-only page)
+- Have a working website and a clear description
+- Not be spam, adult content, or deceptive in how it describes itself
+
+Toolkitly may remove any listing that no longer meets these guidelines.
+
+## License
+
+This repository is MIT licensed. See [LICENSE](LICENSE).
