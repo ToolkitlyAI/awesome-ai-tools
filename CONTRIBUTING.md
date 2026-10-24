@@ -4,7 +4,7 @@ Thanks for your interest in this list! To keep it accurate and high quality, **w
 
 ## How to get your tool listed
 
-1. **Submit your tool at [toolkitly.com/submit](https://www.toolkitly.com/login).**
+1. **Submit your tool at [toolkitly.com/login](https://www.toolkitly.com/login).**
    Every submission is reviewed by our team for quality, accuracy and working links.
 2. **Choose a listing plan** and complete checkout. See the plans on the submission page.
 3. **Your tool is added to this repository automatically** shortly after your listing goes live. You do not need to open a pull request.
