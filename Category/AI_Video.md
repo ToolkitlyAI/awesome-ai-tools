@@ -26,6 +26,8 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | A2O LITE NEON AI Dance | Two photos to 15s duo dance video | [https://a2oliteai.org](https://a2oliteai.org) |
 | dime dime baby ai | One photo to short party dance video | [https://dimedimebabyai.dev](https://dimedimebabyai.dev) |
 
+| Effect Video | Viral photo-to-video effect templates | [https://effect.video](https://effect.video) |
+
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
