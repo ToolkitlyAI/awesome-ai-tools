@@ -23,6 +23,8 @@ A curated list of AI-powered tools for ai art generator. Contribute to this list
 | AnimeGenius AI | Best Anime AI Generator For Free 2025 | [https://animegenius.live3d.io/](https://animegenius.live3d.io/) |
 | ImagineArt AI | Create AI Images | [https://www.imagine.art/](https://www.imagine.art/) |
 
+| Artgen | AI photo-to-pixel-art converter | [https://artgen.net/en/tools/image-to-pixel-art](https://artgen.net/en/tools/image-to-pixel-art) |
+
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
