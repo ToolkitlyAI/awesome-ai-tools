@@ -17,4 +17,4 @@ Please describe what you changed and why:
 
 <!-- Briefly describe the fix here. Tool additions will be closed. -->
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for details.
+See [Contributing Guidelines](CONTRIBUTING.md)  for details.
