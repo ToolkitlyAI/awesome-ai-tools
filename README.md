@@ -1,6 +1,6 @@
 # Awesome AI Tools by Toolkitly
 
-Welcome to a curated collection of 650+ AI-powered tools for  productivity, creativity, and innovation.Brought to you by [Toolkitly.com](https://toolkitly.com), this open-source list is community-driven and constantly growing.To get your tool listed, please submit it at **https://www.toolkitly.com/submit**. Listed tools are added to this repository automatically.
+Welcome to a curated collection of 650+ AI-powered tools for  productivity, creativity, and innovation.Brought to you by [Toolkitly.com](https://toolkitly.com), this open-source list is community-driven and constantly growing.To get your tool listed, please submit it at **https://www.toolkitly.com/login**. Listed tools are added to this repository automatically.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
