@@ -320,3 +320,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Disclaimer**: This list is for informational purposes only and is not affiliated with the listed tools unless stated. Always check each tool’s terms of service before use.
+
+- **[DoomPay](https://github.com/doomsday-network/doom-pay)** - Zero-dependency 3-line Stripe-style non-custodial crypto checkout SDK (`DoomPay.checkout()`) and REST payment receipt verifier for AI agents and web apps (`DOOM` Layer-1 + `wDOOM` on Base Mainnet `8453`).
+- **[BountyGuard](https://github.com/doomsday-network/bounty-guard)** - Pre-flight GitHub bounty auditor and on-chain Proof-of-Escrow verification MCP server, GitHub Action, and CLI skill for AI coding agents.
