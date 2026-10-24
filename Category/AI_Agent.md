@@ -17,6 +17,8 @@ A curated list of AI-powered tools for ai agent. Contribute to this list via our
 | Aident Loadout | Remote MCP for agents with 400+ Skills | [https://aident.ai](https://aident.ai) |
 | Orbi | Turns ai-ready GitHub issues into merged PRs | [https://orbi.build/?ref=dir-toolkitly](https://orbi.build/?ref=dir-toolkitly) |
 
+| System One API | Open AI agent API + OSS SDK | [https://system-one.dev/en/api](https://system-one.dev/en/api) |
+
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
