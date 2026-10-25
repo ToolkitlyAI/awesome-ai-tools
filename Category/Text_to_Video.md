@@ -4,6 +4,7 @@ A curated list of AI-powered tools for text to video. Contribute to this list vi
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| Ideoy | Remake viral videos 1:1 with AI | [https://ideoy.ai](https://ideoy.ai) |
 | Kaiber AI | Create Stunning Videos from Text & Photos with Kaiber's AI Art Tool | [https://kaiber.ai/](https://kaiber.ai/) |
 | CopyCopter | The AI Text-to-Video Tool for Blog Posts & Articles | [https://copycopter.ai/](https://copycopter.ai/) |
 | videos.social | Editable faceless video from blogs | [https://videos.social/?utm_source=toolkitly-awesome&utm_medium=directory&utm_campaign=listing-wave-d](https://videos.social/?utm_source=toolkitly-awesome&utm_medium=directory&utm_campaign=listing-wave-d) |

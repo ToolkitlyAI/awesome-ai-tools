@@ -4,6 +4,7 @@ A curated list of AI-powered tools for short-form video creation tool. Contribut
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| Ideoy | Remake viral shorts 1:1 with AI | [https://ideoy.ai](https://ideoy.ai) |
 | Eklipse.gg | Automate Gaming Highlights & Boost Your Social Media Presence | [https://eklipse.gg/](https://eklipse.gg/) |
 | Crayo AI | Your AI-Powered Shortcut to Viral TikToks | [https://crayo.ai/](https://crayo.ai/) |
 | shortshort | Long videos into 9:16 shorts with captions | [https://www.shortshort.io/](https://www.shortshort.io/) |
