@@ -320,3 +320,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Disclaimer**: This list is for informational purposes only and is not affiliated with the listed tools unless stated. Always check each tool’s terms of service before use.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
