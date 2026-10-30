@@ -25,6 +25,7 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | KDA Firestarter AI Dance | One photo to 13s solo dance video | [https://kdafirestarterai.dev](https://kdafirestarterai.dev) |
 | A2O LITE NEON AI Dance | Two photos to 15s duo dance video | [https://a2oliteai.org](https://a2oliteai.org) |
 | dime dime baby ai | One photo to short party dance video | [https://dimedimebabyai.dev](https://dimedimebabyai.dev) |
+| Dance AI Generator | Turn one photo of a person or pet into a 6-second 9:16 dance video | [https://danceaigenerator.com](https://danceaigenerator.com) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
