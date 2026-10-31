@@ -22,6 +22,7 @@ A curated list of AI-powered tools for ai chatbots. Contribute to this list via 
 | Typebot | Advanced Open-Source Chatbot Builder | [https://typebot.io/](https://typebot.io/) |
 | Insighto.ai | Next-Gen AI Communication Platform | [https://insighto.ai](https://insighto.ai) |
 | Wonderchat AI | Wonderchat AI: AI Chatbot Builder for Customer Support | [https://wonderchat.io/](https://wonderchat.io/) |
+| Taromi | Free AI Tarot Reading | [https://taromi.ai/](https://taromi.ai/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
