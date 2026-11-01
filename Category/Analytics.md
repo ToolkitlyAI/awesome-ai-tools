@@ -6,6 +6,7 @@ A curated list of AI-powered tools for analytics. Contribute to this list via ou
 |-----------|----------------------------|---------|
 | Hurree | Effortless Data Analysis & Insights for Everyone | [https://www.hurree.co/](https://www.hurree.co/) |
 | AI for Database | Talk to your database in plain English | [https://aifordatabase.com](https://aifordatabase.com) |
+| Vaneform | Free website traffic & competitive intel | [https://vaneform.com/](https://vaneform.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
