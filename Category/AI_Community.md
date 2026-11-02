@@ -6,6 +6,7 @@ A curated list of AI-powered tools for ai community. Contribute to this list via
 |-----------|----------------------------|---------|
 | Hugging Face | The Machine Learning & Data Science Platform for Everyone | [https://huggingface.co/](https://huggingface.co/) |
 | Headstarter AI | 7-Week SWE Fellowship for AI Projects & Hackathons | [https://headstarter.co/](https://headstarter.co/) |
+| MeetNewAI | Free bilingual AI tools & MCP directory | [https://meetnewai.com/](https://meetnewai.com/) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
