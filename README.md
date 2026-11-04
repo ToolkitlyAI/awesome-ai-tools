@@ -1,4 +1,7 @@
 # Awesome AI Tools by Toolkitly
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 Welcome to a curated collection of 650+ AI-powered tools for  productivity, creativity, and innovation.Brought to you by [Toolkitly.com](https://toolkitly.com), this open-source list is community-driven and constantly growing.To get your tool listed, please submit it at **https://www.toolkitly.com/login**. Listed tools are added to this repository automatically.
 
