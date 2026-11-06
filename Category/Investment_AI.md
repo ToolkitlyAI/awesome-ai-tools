@@ -4,6 +4,7 @@ A curated list of AI-powered tools for investment ai. Contribute to this list vi
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| DisconfirmAI | Investment research via disconfirming evidence | [https://disconfirmai.com/en](https://disconfirmai.com/en) |
 | RAFA | The All-in-One AI Assistant - Invest in Your Productivity & Streamline Workflows | [https://www.rafa.ai](https://www.rafa.ai) |
 
 ## More Resources
