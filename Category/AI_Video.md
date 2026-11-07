@@ -5,6 +5,8 @@ A curated list of AI-powered tools for ai video. Contribute to this list via our
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
 | ImagineClip | AI video generator for social clips | [https://imagineclip.com](https://imagineclip.com) |
+| Cyanvid | AI video from text/images, credit quotes | [https://cyanvid.com/?utm_source=toolkitlyai-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks](https://cyanvid.com/?utm_source=toolkitlyai-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) |
+| Barz Studio | Free rap lyric video maker, 9:16 WebM | [https://barzvideo.com/?utm_source=toolkitlyai-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks](https://barzvideo.com/?utm_source=toolkitlyai-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) |
 | Hailuo AI | AI Video Creation | [https://hailuoai.video/](https://hailuoai.video/) |
 | PVID | Free AI video generator | [https://pvid.app/](https://pvid.app/) |
 | Rask AI | Translate & Dub Videos in 130+ Languages | [https://www.rask.ai/](https://www.rask.ai/) |
