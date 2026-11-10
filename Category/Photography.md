@@ -4,6 +4,7 @@ A curated list of AI-powered tools for photography. Contribute to this list via 
 
 | Tool Name | Description (max 50 chars) | Website |
 |-----------|----------------------------|---------|
+| Photoshoot | AI product photography: studio shots, OOTD, campaigns | [https://photoshoot.app/](https://photoshoot.app/) |
 | Soona | Soona: Create Stunning Content at Scale | [https://soona.co/](https://soona.co/) |
 
 ## More Resources
