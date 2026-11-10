@@ -10,7 +10,7 @@ A curated list of AI-powered tools for generative ai. Contribute to this list vi
 | Wrtn AI | Your All-in-One Korean Writing Platform | [https://wrtn.ai/](https://wrtn.ai/) |
 | Kimi AI | Reliable Multilingual Assistant for Professionals & Students | [https://www.kimi.ai/](https://www.kimi.ai/) |
 | OpenAI ChatGPT | GPT-4o - Your Gateway to Advanced AI Interaction | [https://openai.com/index/gpt-4/](https://openai.com/index/gpt-4/) |
-
+| Wonderslide | Wonderslide: Describe It, Get a Finished Presentation | [https://wonderslide.com](https://wonderslide.com) |
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
 - Find more tools and reviews at [Toolkitly.com](https://toolkitly.com)!
