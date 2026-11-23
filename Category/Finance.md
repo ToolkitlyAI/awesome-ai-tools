@@ -6,6 +6,7 @@ A curated list of AI-powered tools for finance. Contribute to this list via our 
 |-----------|----------------------------|---------|
 | Bidlytics | Win More GovCon Bids with AI-Powered Automation | [https://www.bidlytics.co/](https://www.bidlytics.co/) |
 | Equibles | Cited US stock data for ChatGPT and Claude | [https://equibles.com](https://equibles.com) |
+| FlowFeed | Real-time macro, forex and crypto news for AI agents | [https://flowfeed.cc](https://flowfeed.cc) |
 | Macroaxis | Build Winning Investment Portfolios with AI | [https://www.macroaxis.com/](https://www.macroaxis.com/) |
 
 ## More Resources
