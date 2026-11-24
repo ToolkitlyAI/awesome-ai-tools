@@ -308,6 +308,11 @@ Explore our tool categories below:
 - [macOS AI copilot](Category/macOS_AI_copilot.md)
 - [macOS Tool](Category/macOS_Tool.md)
 
+
+## Public Data APIs (Apify)
+
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
+
 ## Contributing
 Want to add a tool or fix a link? Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
